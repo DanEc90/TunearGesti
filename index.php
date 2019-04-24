@@ -10,7 +10,8 @@ if ((isset($_SESSION['Cedula'])) && (isset($_SESSION['Tipo']))){
 }
 include 'use/head.php'; 
 ?>
-<!-- carrucel IMAGENES EM CARUCES-->
+<!-- carrucel IMAGENES EM CARUCES hola perro
+-->
 <div class="limiter" >
     <div class="container-login100" style="background:linear-gradient(30deg, #ef0d0d, #490000, #2e2222)">
         <div class="wrap-login100" >
